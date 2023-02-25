@@ -35,7 +35,7 @@ export default function FilePreviewer() {
 
 	return (
 		<div>
-			<h1>Preview Image/Video</h1>
+			<h1 class = 'title'>Preview Image/Video</h1>
 
 			<div className="btn-container">
 				<input

@@ -4,7 +4,7 @@
 }
 
 .preview {
-	width: min(400px, 90%);
+	width: 60%;
 	position: relative;
 	margin: 20px auto;
 }
